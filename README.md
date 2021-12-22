@@ -19,13 +19,13 @@
 
 | 书名  | 出版时间   | 内容简介              |
 | ------- | ---------- | ----------------- |
-| [《测试驱动的JavaScript开发》](https://book.douban.com/subject/10483528/)            | 2011年9月  | 机械工业出版社出版，致力于介绍测试驱动型的编程方式。                                                                                        |
-| [《Visual C++并行编程实战》](https://book.douban.com/subject/11580452/)              | 2012年8月  | 机械工业出版社出版，致力于介绍基于Visual C++平台的并行编程库。                                                                              |
-| [《JavaScript面向对象编程指南》（第1版）](https://book.douban.com/subject/21372235/) | 2013年3月  | 人民邮电出版社出版，这是一本关于JavaScript的编程教材。                                                                                      |
-| [《HTML5和CSS3快速参考》](https://book.douban.com/subject/25730129/)                 | 2013年9月  | 人民邮电出版社出版，这是一本html和css最新版本的速查手册。                                                                                   |
-| [《元素模式》](https://book.douban.com/subject/25908396/)                            | 2014年7月  | 电子工业出版社出版，这是一本获得jolt大奖的，关于设计模式理论的专著。                                                                        |
-| [《JavaScript面向对象编程指南》（第2版）](https://book.douban.com/subject/26302623/) | 2014年12月 | 人民邮电出版社，对该书第一版的重新修订。                                                                                                    |
-| [《Python算法教程](https://book.douban.com/subject/26699412/)》                      | 2016年1月  | 人民邮电出版社出版，是一本关于算法设计的教材。                                                                                              |
-| [《git学习指南》](https://book.douban.com/subject/26967729/)                         | 2016年12月 | 人民邮电出版社出版，致力于介绍一种分布式版本控制系统。                                                                                      |
-| [《NLTK基础教程》](https://book.douban.com/subject/27057666/)                        | 2017年6月  | 人民邮电出版社出版，这本书主要介绍如何通过NLTK等一系列Python库来实现与自然语言处理相关的机器学习应用。                                      |
-| [《C++程序设计》（第3版）](https://book.douban.com/subject/34711734/)                | 2019年8月  | 人民邮电出版社出版，这本书是针对计算机科学专业领域的C++编程课程而编写的一本教科书，适合没有编程经验的学生，以及有其他语言编程经验的学习者。 |
+| [《测试驱动的 JavaScript 开发》](https://book.douban.com/subject/10483528/)            | 2011年9月  | 机械工业出版社出版，致力于介绍测试驱动型的编程方式。           |
+| [《Visual C++并行编程实战》](https://book.douban.com/subject/11580452/)              | 2012年8月  | 机械工业出版社出版，致力于介绍基于Visual C++平台的并行编程库。       |
+| [《JavaScript面向对象编程指南》（第1版）](https://book.douban.com/subject/21372235/) | 2013年3月  | 人民邮电出版社出版，这是一本关于JavaScript的编程教材。       |
+| [《HTML5和CSS3快速参考》](https://book.douban.com/subject/25730129/)                 | 2013年9月  | 人民邮电出版社出版，这是一本html和css最新版本的速查手册。      |
+| [《元素模式》](https://book.douban.com/subject/25908396/)                            | 2014年7月  | 电子工业出版社出版，这是一本获得jolt大奖的，关于设计模式理论的专著。 |
+| [《JavaScript面向对象编程指南》（第2版）](https://book.douban.com/subject/26302623/) | 2014年12月 | 人民邮电出版社，对该书第一版的重新修订。            |
+| [《Python 算法教程](https://book.douban.com/subject/26699412/)》                      | 2016年1月  | 人民邮电出版社出版，是一本关于算法设计的教材。      |
+| [《git 学习指南》](https://book.douban.com/subject/26967729/)                         | 2016年12月 | 人民邮电出版社出版，致力于介绍一种分布式版本控制系统。      |
+| [《NLTK 基础教程》](https://book.douban.com/subject/27057666/)                        | 2017年6月  | 人民邮电出版社出版，这本书主要介绍如何通过 NLTK 等一系列 Python 库来实现与自然语言处理相关的机器学习应用。    |
+| [《C++程序设计》（第3版）](https://book.douban.com/subject/34711734/)                | 2019年8月  | 人民邮电出版社出版，这本书是针对计算机科学专业领域的 C++ 编程课程而编写的一本教科书，适合没有编程经验的学生，以及有其他语言编程经验的学习者。 |
