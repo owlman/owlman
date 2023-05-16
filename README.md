@@ -6,10 +6,10 @@
 
 | 项目名  | 内容简介              |
 | ------- | ----------------- |
-| [《计算机研究笔记》](https://github.com/owlman/study_note) | 这是一本持续更新的，我个人在研究计算机科学过程中所积累的笔记（和代码）。 |
+| [《计算机研究笔记》](https://github.com/owlman/study_note) | 这是一个持续更新的，我个人在研究计算机科学过程中所积累的笔记库（和代码）。 |
 | [《个人业余知识库》](https://github.com/owlman/Knowledge_base) | 这是一个持续更新的，基于 Obsidian 笔记系统建立的的个人业余知识库，其中包含了本人在计算机专业之外所分享的读书感悟、知识整理与观点分析。 |
-| [《网络生活》](https://github.com/owlman/onlinelife) | 这是一本自传性质的，探讨互联网时代生活方式的小书，目前仍在断断续续的创作中。 |
 | [《Markdown 写作指南》](https://github.com/owlman/markdown_guide) | 与人民邮电出版社合作的电子书籍，是一本简单介绍如何使用 Markdown 进行论文级别写作的小书。|
+| [《网络生活》](https://github.com/owlman/onlinelife) | 这是一本自传性质的，探讨互联网时代生活方式的小书，目前仍在断断续续的创作中。 |
 
 ### 出版作品
 
@@ -49,3 +49,5 @@
 - **编程语言**：JavaScript、Python、C/C++、Shell
 - **涉足领域**：Web开发、服务端运维、Linux 内核研究
 - **常用工具**：Git、Markdown、VsCode、Vim、LaTeX
+
+![alt](./img/books.png)
