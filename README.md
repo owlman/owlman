@@ -5,8 +5,8 @@
 ## 专业技能
 
 - **编程语言**：JavaScript、Python、C/C++、Shell
-- **涉足领域**：Web开发、服务端运维、Linux 内核研究
-- **常用工具**：Git、Markdown、VsCode、Vim、LaTeX
+- **涉足领域**：Web 开发、服务端运维、Linux 内核研究
+- **熟悉工具**：Git、Markdown、VsCode、Vim、LaTeX
 
 ## 曾获荣誉
 
