@@ -6,7 +6,7 @@
 
 - **涉足领域**：软件工程、Web 开发、操作系统研究、知识管理；
 - **常用工具**：Git、VS Code、Obsidian、IntelliJ IDEA、Vim；
-- **编程语言**：JavaScript、Python、Shell、C/C++、Rust；
+- **编程语言**：JavaScript、Python、Shell、C、C++、Rust；
 - **标记语言**：HTML、CSS、Markdown、LaTeX；
 
 ## 曾获荣誉
