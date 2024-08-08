@@ -13,10 +13,10 @@
 ## 常用工具
 
 - **标记语言**：HTML、CSS、Markdown、LaTeX；
-- **编程语言**：JavaScript、Python、Shell、C、Rust；
+- **编程语言**：JavaScript、Python、C/C++、Rust；
 - **操作系统**：Windows、Ubuntu、HarmonyOS、macOS；
+- **开发工具**：Git、NeoVim、Visual Studio、Android Studio；
 - **写作工具**：VS Code、Obsidian、flomo卡片笔记本；
-- **开发工具**：Git、NeoVim、IntelliJ IDEA、Visual Studio；
 - **社交工具**：知乎、豆瓣、微信、Twitter、Facebook；
 
 ## 开源项目
