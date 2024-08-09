@@ -12,12 +12,13 @@
 
 ## 常用工具
 
-- **标记语言**：HTML、CSS、Markdown、LaTeX；
-- **编程语言**：JavaScript、Python、C/C++、Rust；
-- **操作系统**：Windows、Ubuntu、HarmonyOS、macOS；
-- **开发工具**：Git、NeoVim、Visual Studio、Android Studio；
-- **写作工具**：VS Code、Obsidian、flomo卡片笔记本；
-- **社交工具**：知乎、豆瓣、微信、Twitter、Facebook；
+- **社交工具**：知乎、Twitter、Facebook、GitHub；
+- **写作工具**：flomo、VS Code、Obsidian；
+- **开发工具**：Vim、Visual Studio、IntelliJ IDEA；
+- **阅读工具**：Kindle、掌阅、微信读书；
+- **管理工具**：Bash/Powershell、Git、滴答清单；
+- **标记语言**：HTML/CSS、Markdown、LaTeX；
+- **编程语言**：JavaScript、Python、C/C++；
 
 ## 开源项目
 
