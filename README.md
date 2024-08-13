@@ -13,10 +13,10 @@
 ## 常用工具
 
 - **社交工具**：知乎、Twitter、Facebook、GitHub；
-- **写作工具**：flomo、VS Code、Obsidian；
-- **开发工具**：Vim、Visual Studio、IntelliJ IDEA；
-- **阅读工具**：Kindle、掌阅、微信读书；
+- **写作工具**：flomo、Obsidian、VS Code；
+- **开发工具**：Vim、VS Code、IntelliJ IDEA；
 - **管理工具**：Bash/Powershell、Git、滴答清单；
+- **阅读工具**：Kindle、掌阅、微信读书；
 - **标记语言**：HTML/CSS、Markdown、LaTeX；
 - **编程语言**：JavaScript、Python、C/C++；
 
