@@ -86,7 +86,7 @@
 
 ---
 
-## 原创/翻译作品
+## 已出版作品
 
 - 原创：
   - [《JavaScript 全栈开发》](https://book.douban.com/subject/35493728/)
