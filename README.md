@@ -10,28 +10,6 @@
 
 TL;DR：这里整理计算机基础、工具链取舍、写作方法与实验记录，目标是让内容在三年、五年后依然有参考价值。
 
-## 目录
-
-- [快速开始](#快速开始)
-- [我在做什么](#我在做什么)
-- [我不做什么](#我不做什么)
-- [适合谁关注我](#适合谁关注我)
-- [联系与延伸](#联系与延伸)
-- [已出版作品](#已出版作品)
-- [主要仓库](#这里的主要内容主要仓库)
-- [GitHub Stats](#github-stats)
-- [贡献与许可](#贡献与许可)
-
-## 快速开始
-
-- 克隆仓库：
-
-```bash
-git clone https://github.com/owlman/CS_StudyNotes.git
-```
-
-- 阅读主要笔记：进入相应仓库的 README 或 docs 目录开始浏览。
-
 ## 我在做什么
 
 1. **计算机科学领域的长期笔记**
@@ -60,12 +38,6 @@ git clone https://github.com/owlman/CS_StudyNotes.git
 - 想知道「为什么」而不仅是「怎么做」的读者
 - 需要完整思路、权衡过程与失败记录的人
 - 注重长期积累与系统学习而非速成的学习者
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owlman&show_icons=true&theme=default)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=owlman/CS_StudyNotes&type=Date)](https://star-history.com/#owlman/CS_StudyNotes&Date)
 
 ## 联系与延伸
 
@@ -105,8 +77,3 @@ git clone https://github.com/owlman/CS_StudyNotes.git
 
 - 欢迎通过 Issues 提问或提交 PR（请先阅读仓库中的 CONTRIBUTING 或相应说明）。
 - 许可证：参见仓库根目录的 LICENSE 文件。
-
----
-
-如需进一步调整，可告知：为主仓库生成更详细的 README 模板（含目录与示例）。
-
