@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
 > **「我更愿意慢，但要站得住、可追溯、可重复引用。」**
 
@@ -48,23 +48,23 @@ TL;DR：这里整理计算机基础、工具链取舍、写作方法与实验记
 
 ## 已出版作品
 
-**原创**
+- **原创**
 
-- [《JavaScript 全栈开发》](https://book.douban.com/subject/35493728/) — 这是一本覆盖前端到后端的全栈开发指南
-- [《Vue.js 全平台前端实战》](https://book.douban.com/subject/35886403/) — 这是一本基于 Vue.js 的跨平台开发实践
-- [《Node.js 后端全程实战》](https://book.douban.com/subject/36374893/) — 这是一本从入门到部署的 Node.js 后端教程
+  - [《JavaScript 全栈开发》](https://book.douban.com/subject/35493728/) — 这是一本覆盖前端到后端的全栈开发指南
+  - [《Vue.js 全平台前端实战》](https://book.douban.com/subject/35886403/) — 这是一本基于 Vue.js 的跨平台开发实践
+  - [《Node.js 后端全程实战》](https://book.douban.com/subject/36374893/) — 这是一本从入门到部署的 Node.js 后端教程
 
-**翻译**
+- **翻译**
 
-- [《Python 算法教程》]() — 用 Python 语言讲解算法与数据结构的基础知识
-- [《C++ 程序设计》（第 3 版）]() — C++ 语言程序设计的系统教材
-- [《JavaScript 面向对象编程指南》]() — 深入讲解 JavaScript 面向对象编程范式
-- [《测试驱动的 JavaScript 开发》]() — TDD 理念在 JavaScript 开发中的应用
-- [《元素模式》]() — 软件设计模式与最佳实践
-- [《NLTK 基础教程》]() — 自然语言处理工具 NLTK 的入门指南
-- [《Git 学习指南》]() — 分布式版本控制系统 Git 的实践教程
-- [《Visual C++ 并行编程实战》]() — 并行计算在 Visual C++ 中的实战应用
-- [《HTML5 和 CSS3 快速参考》]() — HTML5 与 CSS3 快速查阅手册
+  - [《Python 算法教程》](https://book.douban.com/subject/26699412/) — 用 Python 语言讲解算法与数据结构的基础知识
+  - [《C++ 程序设计》）](https://book.douban.com/subject/34711734/) — C++ 语言程序设计的系统教材
+  - [《JavaScript 面向对象编程指南》](https://book.douban.com/subject/26302623/) — 深入讲解 JavaScript 面向对象编程范式
+  - [《测试驱动的 JavaScript 开发》](https://book.douban.com/subject/10483528/) — TDD 理念在 JavaScript 开发中的应用
+  - [《元素模式》](https://book.douban.com/subject/25908396/) — 软件设计模式与最佳实践
+  - [《NLTK 基础教程》](https://book.douban.com/subject/27057666/) — 自然语言处理工具 NLTK 的入门指南
+  - [《Git 学习指南》](https://book.douban.com/subject/26967729/) — 分布式版本控制系统 Git 的实践教程
+  - [《Visual C++ 并行编程实战》](https://book.douban.com/subject/11580452/) — 并行计算在 Visual C++ 中的实战应用
+  - [《HTML5 和 CSS3 快速参考》](https://book.douban.com/subject/25730129/) — HTML5 与 CSS3 快速查阅手册
 
 ## 这里的主要内容（主要仓库）
 
