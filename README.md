@@ -4,7 +4,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 ![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=owlman&layout=compact)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
 
 > **「我更愿意慢，但要站得住、可追溯、可重复引用。」**
 
@@ -72,6 +75,8 @@ TL;DR：这里整理计算机基础、工具链取舍、写作方法与实验记
 
 - [CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) — 计算机科学与工程学习笔记（持续整理中）
 - [HTML_CSS_in_action](https://github.com/owlman/HTML_CSS_in_action) — 一本面向前端初学者的网页设计教材，通过 5 个企业级项目实践，循序渐进地教授 HTML5 + CSS3 + Bootstrap 网页设计技术。
+- [webdev_in_action](https://github.com/owlman/webdev_in_action) — 一本面向前端程序员的实战型教材，通过五个精心设计的教学项目，系统讲解如何使用 JavaScript 语言及其相关前后端开发技术来完成企业级 Web 应用开发。
+- [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — 一本以真实项目为导向的uni-app移动端应用开发教材。通过五个精心设计的教学项目，逐步引导读者掌握使用JavaScript和uni-app框架开发跨平台移动端应用的核心技能。
 - [markdown_guide](https://github.com/owlman/markdown_guide) — 使用 Markdown 写作与知识表达的实践总结
 - 实验/环境仓库 — 用于验证、复现技术方案（见各仓库 README）
 
