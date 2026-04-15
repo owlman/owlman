@@ -3,9 +3,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=owlman&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owlman&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=owlman&layout=compact)
 
 > **「我更愿意慢，但要站得住、可追溯、可重复引用。」**
 
