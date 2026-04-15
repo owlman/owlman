@@ -1,7 +1,7 @@
 # 关于我
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
 [![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
