@@ -1,13 +1,13 @@
 # 关于我
 
-[![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
-![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
+[![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
+![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
 > **「我更愿意慢，但要站得住、可追溯、可重复引用。」**
 
