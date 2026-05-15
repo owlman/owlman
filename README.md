@@ -1,7 +1,5 @@
 # 关于我
 
-> **[English Version](README_EN.md) | 中文**
-
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
@@ -10,6 +8,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
 ![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
+
+**中文版本 | [英文版本](README_EN.md)**
 
 ## 个人简介
 
