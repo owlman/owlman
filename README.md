@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
-**中文版本 | [英文版本](README_EN.md)**
+**中文版本 | [English Version](README_EN.md)**
 
 ## 个人简介
 
