@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
-> **[中文版](README.md) | English**
+**[Chinese Version](README.md) | English Version**
 
 ## Bio
 
@@ -32,7 +32,7 @@ Name: Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" 
 - [Element Patterns](https://book.douban.com/subject/25908396/) — Software design patterns and best practices
 - [NLTK Essentials](https://book.douban.com/subject/27057666/) — Getting started with the Natural Language Toolkit
 - [Git Pocket Guide](https://book.douban.com/subject/26967729/) — Practical guide to distributed version control with Git
-- [Visual C++ Parallel Programming](https://book.douban.com/subject/11580452/) — Parallel computing实战 in Visual C++
+- [Visual C++ Parallel Programming](https://book.douban.com/subject/11580452/) — Parallel computing practice in Visual C++
 - [HTML5 and CSS3 Quick Reference](https://book.douban.com/subject/25730129/) — Quick reference for HTML5 and CSS3
 
 ## What I Do on GitHub
@@ -46,7 +46,7 @@ As a technical writer and computer systems learner focused on long-term accumula
 2. **Development Tools and Engineering Practice**
    - Front-end and back-end frameworks: Node.js, Vue.js, uni-app practice summaries
    - Editors and IDEs: NVim, VS Code, OpenCode experience
-   - Operations and deployment: Git, Docker, Kubernetes实战 records
+   - Operations and deployment: Git, Docker, Kubernetes practical records
 
 3. **Technical Writing and Reproducible Experiments**
    - Using Obsidian, Markdown, and LaTeX as writing tools
