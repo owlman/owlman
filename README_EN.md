@@ -25,15 +25,15 @@ Name: Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" 
 
 ### Translations
 
-- [Python Algorithm Tutorial](https://book.douban.com/subject/26699412/) — Algorithm and data structure fundamentals using Python
-- [C++ Programming](https://book.douban.com/subject/34711734/) — Systematic C++ programming textbook
-- [JavaScript Object-Oriented Programming Guide](https://book.douban.com/subject/26302623/) — In-depth exploration of JavaScript OOP
-- [Test-Driven JavaScript Development](https://book.douban.com/subject/10483528/) — TDD principles applied to JavaScript development
-- [Element Patterns](https://book.douban.com/subject/25908396/) — Software design patterns and best practices
+- [Python Algorithms: Mastering Basic Algorithms in the Python Languag](https://book.douban.com/subject/26699412/) — Algorithm and data structure fundamentals using Python
+- [Computing Fundamentals With C++](https://book.douban.com/subject/34711734/) — Systematic C++ programming textbook
+- [Object-Oriented JavaScript](https://book.douban.com/subject/26302623/) — In-depth exploration of JavaScript OOP
+- [Test-driven JavaScript Development](https://book.douban.com/subject/10483528/) — TDD principles applied to JavaScript development
+- [Elemental Design Patterns](https://book.douban.com/subject/25908396/) — Software design patterns and best practices
 - [NLTK Essentials](https://book.douban.com/subject/27057666/) — Getting started with the Natural Language Toolkit
-- [Git Pocket Guide](https://book.douban.com/subject/26967729/) — Practical guide to distributed version control with Git
-- [Visual C++ Parallel Programming](https://book.douban.com/subject/11580452/) — Parallel computing practice in Visual C++
-- [HTML5 and CSS3 Quick Reference](https://book.douban.com/subject/25730129/) — Quick reference for HTML5 and CSS3
+- [Git: Distributed Version Control--Fundamentals and Workflows](https://book.douban.com/subject/26967729/) — Practical guide to distributed version control with Git
+- [Parallel Programming with Microsoft Visual C++:Design Patterns for Decomposition and Coordination on Multicore Architectures](https://book.douban.com/subject/11580452/) — Parallel computing practice in Visual C++
+- [Sergey's HTML5 & CSS3: Quick Reference, HTML5, CSS3 and APIs](https://book.douban.com/subject/25730129/) — Quick reference for HTML5 and CSS3
 
 ## What I Do on GitHub
 
