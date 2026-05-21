@@ -8,6 +8,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-8284FF?logo=obsidian&style=flat-square)](https://obsidian.md/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 
 **中文版本 | [English Version](README_EN.md)**
 
