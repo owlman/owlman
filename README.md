@@ -1,21 +1,19 @@
 # 关于我
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![Blog](https://img.shields.io/badge/Blog-凌杰的技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
+[![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
+[![facebook](https://img.shields.io/badge/lingjieowl-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jie.owlman)
+[![C++](https://img.shields.io/badge/C/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
-[![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
-![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
 **中文版本 | [English Version](README_EN.md)**
 
-## 个人简介
+## 我是谁？
 
-> **「我更愿意慢，但要站得住、可追溯、可重复引用。」**
-
-姓名：凌杰，1981 年生，浙江杭州人氏，2006 年被授予浙江大学远程教育学院“荣誉学员”。目前为独立开发者、技术作家兼译者。精通多门编程语言，拥有丰富的软件开发及测试经验。个人崇尚黑客文化，支持开源运动，近些年来还参与了多项计算机技术相关的写作与翻译工作，已出版有如下作品：
+凌杰，1981 年生，浙江杭州人氏，2006 年被授予浙江大学远程教育学院“荣誉学员”。目前为独立开发者、技术作家兼译者。精通多门编程语言，拥有丰富的软件开发及测试经验。个人崇尚黑客文化，支持开源运动，近些年来还参与了多项计算机技术相关的写作与翻译工作，已出版有如下作品：
 
 ### 原创
 
@@ -35,7 +33,7 @@
 - [Visual C++ 并行编程实战](https://book.douban.com/subject/11580452/) — 并行计算在 Visual C++ 中的实战应用
 - [HTML5 和 CSS3 快速参考](https://book.douban.com/subject/25730129/) — HTML5 与 CSS3 快速查阅手册
 
-## 我在 GitHub 上做什么
+## 我在 GitHub 上做什么？
 
 由于我是一名技术写作者与计算机系统学习者，专注长期积累与可复用的技术判断，因而在这里主要致力于整理计算机基础、工具链取舍、写作方法与实验记录，具体包括如下范畴：
 
@@ -69,7 +67,6 @@
 ### 联系与延伸
 
 - 邮箱：[jie.owl2008@gmail.com](mailto:jie.owl2008@gmail.com)
-- 博客：[https://www.cnblogs.com/owlman](https://www.cnblogs.com/owlman)
 - 讨论与反馈：请在相关仓库提交 [GitHub Issues](https://github.com/owlman/CS_StudyNotes/issues)
 
 ### 主要仓库列表
@@ -80,8 +77,3 @@
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — 一本以真实项目为导向的uni-app移动端应用开发教材。通过五个精心设计的教学项目，逐步引导读者掌握使用JavaScript和uni-app框架开发跨平台移动端应用的核心技能。
 - [markdown_guide](https://github.com/owlman/markdown_guide) — 使用 Markdown 写作与知识表达的实践总结
 - 实验/环境仓库 — 用于验证、复现技术方案（见各仓库 README）
-
-## 贡献与许可
-
-- 欢迎通过 Issues 提问或提交 PR（请先阅读仓库中的 CONTRIBUTING 或相应说明）。
-- 许可证：参见仓库根目录的 LICENSE 文件。

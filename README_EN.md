@@ -1,21 +1,19 @@
 # About Me
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
+[![Blog](https://img.shields.io/badge/Blog-凌杰的技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
+[![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
+[![facebook](https://img.shields.io/badge/lingjieowl-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jie.owlman)
+[![C++](https://img.shields.io/badge/C/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
-[![GitHub stars](https://img.shields.io/github/stars/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/owlman/CS_StudyNotes?style=flat-square)](https://github.com/owlman/CS_StudyNotes/network/members)
-![Profile Views](https://komarev.com/ghpvc/?username=owlman&color=green)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/owlman/CS_StudyNotes/blob/main/LICENSE)
 
 **[中文版本](README.md) | English Version**
 
-## Bio
+## Who Am I?
 
-> **"I prefer to go slow, but what I produce must be solid, traceable, and citable."**
-
-Name: Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" by Zhejiang University Distance Education College in 2006. Currently an independent developer, technical writer, and translator. Proficient in multiple programming languages with extensive software development and testing experience. Advocate of hacker culture and open source movement. Over the past few years, I have been involved in numerous computer technology writing and translation projects, publishing the following works:
+My name is Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" by Zhejiang University Distance Education College in 2006. Currently an independent developer, technical writer, and translator. Proficient in multiple programming languages with extensive software development and testing experience. Advocate of hacker culture and open source movement. Over the past few years, I have been involved in numerous computer technology writing and translation projects, publishing the following works:
 
 ### Original Works
 
@@ -35,7 +33,7 @@ Name: Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" 
 - [Parallel Programming with Microsoft Visual C++:Design Patterns for Decomposition and Coordination on Multicore Architectures](https://book.douban.com/subject/11580452/) — Parallel computing practice in Visual C++
 - [Sergey's HTML5 & CSS3: Quick Reference, HTML5, CSS3 and APIs](https://book.douban.com/subject/25730129/) — Quick reference for HTML5 and CSS3
 
-## What I Do on GitHub
+## What I Do on GitHub?
 
 As a technical writer and computer systems learner focused on long-term accumulation and reusable technical judgment, I mainly dedicate myself to organizing computer fundamentals, toolchain tradeoffs, writing methods, and experimental records, encompassing the following areas:
 
@@ -60,7 +58,7 @@ My goal is to ensure that the content I share on GitHub has long-term value, hel
 - Chasing short-term trends or traffic dividends
 - Pretending to know everything
 
-### Who Should Follow Me
+### Who Should Follow Me?
 
 - Readers who want to know the "why" rather than just the "how"
 - People who need complete reasoning, trade-off processes, and failure records
@@ -80,8 +78,3 @@ My goal is to ensure that the content I share on GitHub has long-term value, hel
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — A project-oriented uni-app mobile development textbook. Through 5 carefully designed projects, readers gradually master core skills for cross-platform mobile app development using JavaScript and the uni-app framework
 - [markdown_guide](https://github.com/owlman/markdown_guide) — Practice summary of Markdown writing and knowledge expression
 - Experimental/Environment Repositories — For verifying and reproducing technical solutions (see respective repository READMEs)
-
-## Contribution & License
-
-- Feel free to ask questions or submit PRs via Issues (please read the CONTRIBUTING file in the respective repository first).
-- License: See the LICENSE file in each repository's root directory.
