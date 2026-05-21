@@ -1,4 +1,4 @@
-# About Me
+﻿# About Me
 
 [![Blog](https://img.shields.io/badge/Blog-凌杰的技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
 [![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
@@ -23,7 +23,7 @@ My name is Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Stud
 
 ### Translations
 
-- [Python Algorithms: Mastering Basic Algorithms in the Python Languag](https://book.douban.com/subject/26699412/) — Algorithm and data structure fundamentals using Python
+- [Python Algorithms: Mastering Basic Algorithms in the Python Language](https://book.douban.com/subject/26699412/) — Algorithm and data structure fundamentals using Python
 - [Computing Fundamentals With C++](https://book.douban.com/subject/34711734/) — Systematic C++ programming textbook
 - [Object-Oriented JavaScript](https://book.douban.com/subject/26302623/) — In-depth exploration of JavaScript OOP
 - [Test-driven JavaScript Development](https://book.douban.com/subject/10483528/) — TDD principles applied to JavaScript development
@@ -67,7 +67,6 @@ My goal is to ensure that the content I share on GitHub has long-term value, hel
 ### Contact
 
 - Email: [jie.owl2008@gmail.com](mailto:jie.owl2008@gmail.com)
-- Blog: [https://www.cnblogs.com/owlman](https://www.cnblogs.com/owlman)
 - Discussion & Feedback: Submit [GitHub Issues](https://github.com/owlman/CS_StudyNotes/issues) in the relevant repository
 
 ### Main Repositories
