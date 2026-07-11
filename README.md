@@ -1,6 +1,5 @@
 ﻿# 关于我
 
-[![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
 [![C](https://img.shields.io/badge/C-00599C?logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -11,6 +10,7 @@
 [![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat-square)](https://github.com/owlman)
 
 **中文版本 | [English Version](README_EN.md)**
 
