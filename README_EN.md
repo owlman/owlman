@@ -1,6 +1,5 @@
 ﻿# About Me
 
-[![Blog](https://img.shields.io/badge/Blog-技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
 [![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
 [![C](https://img.shields.io/badge/C-00599C?logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
@@ -10,7 +9,7 @@
 [![Obsidian](https://img.shields.io/badge/Obsidian-8284FF?logo=obsidian&style=flat-square)](https://obsidian.md/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
-[![Node.js](https://img.shields.io/badge/Node.JS-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
 
 **[中文版本](README.md) | English Version**
