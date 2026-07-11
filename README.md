@@ -8,7 +8,8 @@
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-8284FF?logo=obsidian&style=flat-square)](https://obsidian.md/)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
 [![Node.js](https://img.shields.io/badge/Node.JS-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
 
