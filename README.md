@@ -1,6 +1,6 @@
 ﻿# 关于我
 
-[![Blog](https://img.shields.io/badge/Blog-凌杰的技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
+[![Blog](https://img.shields.io/badge/Blog-技术博客-orange.svg?style=flat)](https://www.cnblogs.com/owlman)
 [![X](https://img.shields.io/badge/lingjieowl-black?logo=X)](https://x.com/lingjieowl)
 [![C](https://img.shields.io/badge/C-00599C?logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
