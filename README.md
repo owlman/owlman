@@ -1,13 +1,13 @@
 ﻿# 关于我
 
-[![C](https://img.shields.io/badge/C-00599C?logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-8284FF?logo=obsidian&style=flat-square)](https://obsidian.md/)
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
-[![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-0891B2?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat-square)](https://github.com/owlman)
@@ -70,7 +70,7 @@
 
 ### 联系与延伸
 
-- 邮箱：[jie.owl2008@gmail.com](mailto:jie.owl2008@gmail.com)
+- 邮箱：`jie.owl2008[at]gmail[dot]com`
 - 讨论与反馈：请在相关仓库提交 [GitHub Issues](https://github.com/owlman/CS_StudyNotes/issues)
 
 ### 主要仓库列表
