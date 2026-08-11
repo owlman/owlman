@@ -12,6 +12,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat-square)](https://github.com/owlman)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=owlman&show_icons=true&theme=tokyonight&hide_border=true" alt="owlman 的 GitHub 统计" />
+</p>
+
 **中文版本 | [English Version](README_EN.md)**
 
 ## 我是谁？
