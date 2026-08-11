@@ -16,13 +16,14 @@
 
 ## Who Am I?
 
-My name is Ling Jie (凌杰), born in 1981, from Hangzhou, Zhejiang. Named "Honorary Student" by Zhejiang University Distance Education College in 2006. Currently an independent developer, technical writer, and translator. Proficient in multiple programming languages with extensive software development and testing experience. Advocate of hacker culture and open source movement. Over the past few years, I have been involved in numerous computer technology writing and translation projects, publishing the following works:
+My name is Ling Jie (凌杰), born in 1981, from Hangzhou, Zhejiang. Completed undergraduate studies as an "Honorary Student" at Zhejiang University Distance Education College in 2006. Currently an independent developer, technical writer, and translator. Proficient in multiple programming languages with extensive software development and testing experience. Advocate of hacker culture and open source movement. Over the past few years, I have been involved in numerous computer technology writing and translation projects, publishing the following works:
 
 ### Original Works
 
 - [JavaScript Full-Stack Development](https://book.douban.com/subject/35493728/) — A comprehensive full-stack development guide covering front-end to back-end
 - [Vue.js Cross-Platform Front-End Practice](https://book.douban.com/subject/35886403/) — Cross-platform development practice based on Vue.js
 - [Node.js Back-End Complete Guide](https://book.douban.com/subject/36374893/) — A Node.js back-end tutorial from introduction to deployment
+- [HTML5 & CSS3 Web Design Project Tutorial](https://book.douban.com/subject/37533404/) — A beginner-friendly web design textbook, teaching HTML5 + CSS3 + Bootstrap through 5 enterprise-grade projects
 - [OpenClaw Quick Start](https://book.douban.com/subject/38549104/) — A complete guide covering OpenClaw from deployment to real-world practice
 
 ### Translations
@@ -30,6 +31,7 @@ My name is Ling Jie (凌杰), born in 1981, from Hangzhou, Zhejiang. Named "Hono
 - [Python Algorithms: Mastering Basic Algorithms in the Python Language](https://book.douban.com/subject/26699412/) — Algorithm and data structure fundamentals using Python
 - [Computing Fundamentals With C++](https://book.douban.com/subject/34711734/) — Systematic C++ programming textbook
 - [Object-Oriented JavaScript](https://book.douban.com/subject/26302623/) — In-depth exploration of JavaScript OOP
+- [Object-Oriented JavaScript (1st Edition)](https://book.douban.com/subject/21372235/) — In-depth exploration of JavaScript OOP
 - [Test-driven JavaScript Development](https://book.douban.com/subject/10483528/) — TDD principles applied to JavaScript development
 - [Elemental Design Patterns](https://book.douban.com/subject/25908396/) — Software design patterns and best practices
 - [NLTK Essentials](https://book.douban.com/subject/27057666/) — Getting started with the Natural Language Toolkit
@@ -37,7 +39,7 @@ My name is Ling Jie (凌杰), born in 1981, from Hangzhou, Zhejiang. Named "Hono
 - [Parallel Programming with Microsoft Visual C++:Design Patterns for Decomposition and Coordination on Multicore Architectures](https://book.douban.com/subject/11580452/) — Parallel computing practice in Visual C++
 - [Sergey's HTML5 & CSS3: Quick Reference, HTML5, CSS3 and APIs](https://book.douban.com/subject/25730129/) — Quick reference for HTML5 and CSS3
 
-## What I Do on GitHub?
+## What I Do on GitHub
 
 As a technical writer and computer systems learner focused on long-term accumulation and reusable technical judgment, I mainly dedicate myself to organizing computer fundamentals, toolchain tradeoffs, writing methods, and experimental records, encompassing the following areas:
 

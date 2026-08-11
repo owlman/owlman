@@ -16,20 +16,22 @@
 
 ## 我是谁？
 
-凌杰，1981 年生，浙江杭州人氏，2006 年被授予浙江大学远程教育学院“荣誉学员”。目前为独立开发者、技术作家兼译者。精通多门编程语言，拥有丰富的软件开发及测试经验。个人崇尚黑客文化，支持开源运动，近些年来还参与了多项计算机技术相关的写作与翻译工作，已出版有如下作品：
+凌杰，1981 年生，浙江杭州人氏，2006 年以浙江大学远程教育学院“荣誉学员”身份完成本科学业。目前为独立开发者、技术作家兼译者。精通多门编程语言，拥有丰富的软件开发及测试经验。个人崇尚黑客文化，支持开源运动，近些年来还参与了多项计算机技术相关的写作与翻译工作，已出版有如下作品：
 
 ### 原创
 
 - [JavaScript 全栈开发](https://book.douban.com/subject/35493728/) — 这是一本覆盖前端到后端的全栈开发指南
 - [Vue.js 全平台前端实战](https://book.douban.com/subject/35886403/) — 这是一本基于 Vue.js 的跨平台开发实践
 - [Node.js 后端全程实战](https://book.douban.com/subject/36374893/) — 这是一本从入门到部署的 Node.js 后端教程
+- [HTML5 与 CSS3 网页设计项目教程](https://book.douban.com/subject/37533404/) — 这是一本面向前端初学者的网页设计教材，通过 5 个企业级项目实践，循序渐进地教授 HTML5 + CSS3 + Bootstrap 网页设计技术。
 - [OpenClaw 快速上手](https://book.douban.com/subject/38549104/) — 这是一本关于 OpenClaw 从部署到实战的完整指南
 
 ### 译作
 
 - [Python 算法教程](https://book.douban.com/subject/26699412/) — 用 Python 语言讲解算法与数据结构的基础知识
 - [C++ 程序设计](https://book.douban.com/subject/34711734/) — C++ 语言程序设计的系统教材
-- [JavaScript 面向对象编程指南](https://book.douban.com/subject/26302623/) — 深入讲解 JavaScript 面向对象编程范式
+- [JavaScript 面向对象编程指南（第 2 版）](https://book.douban.com/subject/26302623/) — 深入讲解 JavaScript 面向对象编程范式
+- [JavaScript 面向对象编程指南](https://book.douban.com/subject/21372235/) — 深入讲解 JavaScript 面向对象编程范式
 - [测试驱动的 JavaScript 开发](https://book.douban.com/subject/10483528/) — TDD 理念在 JavaScript 开发中的应用
 - [元素模式](https://book.douban.com/subject/25908396/) — 软件设计模式与最佳实践
 - [NLTK 基础教程](https://book.douban.com/subject/27057666/) — 自然语言处理工具 NLTK 的入门指南
