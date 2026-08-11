@@ -83,5 +83,6 @@ My goal is to ensure that the content I share on GitHub has long-term value, hel
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — A project-oriented uni-app mobile development textbook. Through 5 carefully designed projects, readers gradually master core skills for cross-platform mobile app development using JavaScript and the uni-app framework
 - [markdown_guide](https://github.com/owlman/markdown_guide) — Practice summary of Markdown writing and knowledge expression
 - Experimental/Environment Repositories — For verifying and reproducing technical solutions (see respective repository READMEs)
+- Personal site: [www.owlman.cn](https://www.owlman.cn/) — Detailed content hub and book collection (with book covers, post summaries, and social links)
 
 📄 This repository is licensed under [Apache License 2.0](LICENSE).

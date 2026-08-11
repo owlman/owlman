@@ -83,5 +83,6 @@
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — 一本以真实项目为导向的uni-app移动端应用开发教材。通过五个精心设计的教学项目，逐步引导读者掌握使用JavaScript和uni-app框架开发跨平台移动端应用的核心技能。
 - [markdown_guide](https://github.com/owlman/markdown_guide) — 使用 Markdown 写作与知识表达的实践总结
 - 实验/环境仓库 — 用于验证、复现技术方案（见各仓库 README）
+- 个人网站：[www.owlman.cn](https://www.owlman.cn/) — 更详细的内容聚合与作品集（含书籍封面、文章摘要、社交链接）
 
 📄 本仓库内容采用 [Apache License 2.0](LICENSE) 授权。
