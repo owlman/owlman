@@ -6,7 +6,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-083FA1?logo=markdown&style=flat-square)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&style=flat-square)](https://www.latex-project.org/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-8284FF?logo=obsidian&style=flat-square)](https://obsidian.md/)
-[![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=vscodium&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?logo=opencode&logoColor=white&style=flat-square)](https://opencode.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
@@ -23,6 +23,7 @@ My name is Jie Ling, born in 1981, from Hangzhou, Zhejiang. Named "Honorary Stud
 - [JavaScript Full-Stack Development](https://book.douban.com/subject/35493728/) — A comprehensive full-stack development guide covering front-end to back-end
 - [Vue.js Cross-Platform Front-End Practice](https://book.douban.com/subject/35886403/) — Cross-platform development practice based on Vue.js
 - [Node.js Back-End Complete Guide](https://book.douban.com/subject/36374893/) — A Node.js back-end tutorial from introduction to deployment
+- [OpenClaw Quick Start](https://book.douban.com/subject/38549104/) — A complete guide covering OpenClaw from deployment to real-world practice
 
 ### Translations
 
@@ -80,3 +81,5 @@ My goal is to ensure that the content I share on GitHub has long-term value, hel
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — A project-oriented uni-app mobile development textbook. Through 5 carefully designed projects, readers gradually master core skills for cross-platform mobile app development using JavaScript and the uni-app framework
 - [markdown_guide](https://github.com/owlman/markdown_guide) — Practice summary of Markdown writing and knowledge expression
 - Experimental/Environment Repositories — For verifying and reproducing technical solutions (see respective repository READMEs)
+
+📄 This repository is licensed under [Apache License 2.0](LICENSE).

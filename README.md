@@ -23,6 +23,7 @@
 - [JavaScript 全栈开发](https://book.douban.com/subject/35493728/) — 这是一本覆盖前端到后端的全栈开发指南
 - [Vue.js 全平台前端实战](https://book.douban.com/subject/35886403/) — 这是一本基于 Vue.js 的跨平台开发实践
 - [Node.js 后端全程实战](https://book.douban.com/subject/36374893/) — 这是一本从入门到部署的 Node.js 后端教程
+- [OpenClaw 快速上手](https://book.douban.com/subject/38549104/) — 这是一本关于 OpenClaw 从部署到实战的完整指南
 
 ### 译作
 
@@ -80,3 +81,5 @@
 - [mobiledev_in_action](https://github.com/owlman/mobiledev_in_action) — 一本以真实项目为导向的uni-app移动端应用开发教材。通过五个精心设计的教学项目，逐步引导读者掌握使用JavaScript和uni-app框架开发跨平台移动端应用的核心技能。
 - [markdown_guide](https://github.com/owlman/markdown_guide) — 使用 Markdown 写作与知识表达的实践总结
 - 实验/环境仓库 — 用于验证、复现技术方案（见各仓库 README）
+
+📄 本仓库内容采用 [Apache License 2.0](LICENSE) 授权。
