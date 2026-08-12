@@ -23,7 +23,7 @@ My name is Ling Jie (凌杰), born in 1981, from Hangzhou, Zhejiang. Completed u
 - [JavaScript Full-Stack Development](https://book.douban.com/subject/35493728/) — A comprehensive full-stack development guide covering front-end to back-end
 - [Vue.js Cross-Platform Front-End Practice](https://book.douban.com/subject/35886403/) — Cross-platform development practice based on Vue.js
 - [Node.js Back-End Complete Guide](https://book.douban.com/subject/36374893/) — A Node.js back-end tutorial from introduction to deployment
-- [HTML5 & CSS3 Web Design Project Tutorial](https://book.douban.com/subject/37533404/) — A beginner-friendly web design textbook, teaching HTML5 + CSS3 + Bootstrap through 5 enterprise-grade projects
+- [HTML5 & CSS3 Web Design Project Tutorial](https://book.douban.com/subject/37533404/) — A beginner-friendly web design project guide
 - [OpenClaw Quick Start](https://book.douban.com/subject/38549104/) — A complete guide covering OpenClaw from deployment to real-world practice
 
 ### Translations
