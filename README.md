@@ -23,7 +23,7 @@
 - [JavaScript 全栈开发](https://book.douban.com/subject/35493728/) — 这是一本覆盖前端到后端的全栈开发指南
 - [Vue.js 全平台前端实战](https://book.douban.com/subject/35886403/) — 这是一本基于 Vue.js 的跨平台开发实践
 - [Node.js 后端全程实战](https://book.douban.com/subject/36374893/) — 这是一本从入门到部署的 Node.js 后端教程
-- [HTML5 与 CSS3 网页设计项目教程](https://book.douban.com/subject/37533404/) — 这是一本面向前端初学者的网页设计教材，通过 5 个企业级项目实践，循序渐进地教授 HTML5 + CSS3 + Bootstrap 网页设计技术。
+- [HTML5 与 CSS3 网页设计项目教程](https://book.douban.com/subject/37533404/) — 这是一本面向初学者的网页设计项目示范教材
 - [OpenClaw 快速上手](https://book.douban.com/subject/38549104/) — 这是一本关于 OpenClaw 从部署到实战的完整指南
 
 ### 译作
